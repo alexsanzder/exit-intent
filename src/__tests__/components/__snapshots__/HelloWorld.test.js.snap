@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`({ name }) => _react2.default.createElement('h1', { __source: { fileName: _jsxFileName, lineNumber: 3 }, __self: undefined }, \`Hello \${name}!\`) renders and matches our snapshot 1`] = `
+<h1>
+  Hello Person!
+</h1>
+`;
